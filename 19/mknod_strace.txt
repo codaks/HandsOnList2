@@ -1,0 +1,2 @@
+execve("./mknod_fifo", ["./mknod_fifo"], 0x7ffc73ae9c80 /* 18 vars */) = -1 EACCES (Permission denied)
++++ exited with 1 +++
